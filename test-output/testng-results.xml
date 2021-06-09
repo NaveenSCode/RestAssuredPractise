@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-09T17:03:07 IST" name="Default suite" finished-at="2021-06-09T17:03:11 IST" duration-ms="4575">
+    <groups>
+    </groups>
+    <test started-at="2021-06-09T17:03:07 IST" name="Default test" finished-at="2021-06-09T17:03:11 IST" duration-ms="4575">
+      <class name="tests.FourthTest">
+        <test-method signature="testDeleteRequest()[pri:0, instance:tests.FourthTest@6236eb5f]" started-at="2021-06-09T17:03:07 IST" name="testDeleteRequest" finished-at="2021-06-09T17:03:10 IST" duration-ms="2759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteRequest -->
+        <test-method signature="testPatchRequest()[pri:0, instance:tests.FourthTest@6236eb5f]" started-at="2021-06-09T17:03:10 IST" name="testPatchRequest" finished-at="2021-06-09T17:03:11 IST" duration-ms="880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPatchRequest -->
+        <test-method signature="testPutRequest()[pri:0, instance:tests.FourthTest@6236eb5f]" started-at="2021-06-09T17:03:11 IST" name="testPutRequest" finished-at="2021-06-09T17:03:11 IST" duration-ms="887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPutRequest -->
+      </class> <!-- tests.FourthTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
